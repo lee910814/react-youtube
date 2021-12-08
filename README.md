@@ -1,7 +1,7 @@
 ### react-youtube
 ---
 
-![image](https://user-images.githubusercontent.com/62333447/145211278-7372b209-164f-48ba-a250-7f679d755a39.png)
+![image](https://user-images.githubusercontent.com/62333447/145216751-f47326f6-6262-4a40-899d-ece5e7bf4193.png)
 
 youtube clone-coding입니다.
 
